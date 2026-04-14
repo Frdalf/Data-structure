@@ -1,6 +1,8 @@
 # Data Structure Projects
 
-A comprehensive collection of Java projects and assignments from the **Data Structures** course (Semester 4). This repository contains 6 main modules (Codelabs and Tasks) focusing on fundamental data structures and object-oriented principles.
+![Project Status](https://img.shields.io/badge/Status-Ongoing-blue?style=for-the-badge&logo=git)
+
+A comprehensive and **growing** collection of Java projects and assignments from the **Data Structures** course (Semester 4). This repository currently contains 6 main modules focusing on fundamental data structures and object-oriented principles, with more to come.
 
 ## 🚀 Project Overview
 
